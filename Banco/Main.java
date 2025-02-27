@@ -6,6 +6,7 @@ public class Main {
         Cuenta miCuenta;
         double ingreso = 600;
         double retiro = 2000;
+        //prueba
 
         miCuenta = new Cuenta("Antonio López", "1000-2365-85-1230456789", 2500);
         System.out.println(miCuenta.toString());
